@@ -17,7 +17,7 @@ public void mavendemoextest1()
 @Test
 public void mavendemoextest2()
 {
-	System.out.println("hhhye");
+	System.out.println("hhhye byee");
 }
 //mvn test -Dtest=testngclassname
 
