@@ -5,7 +5,7 @@ public class Mavendemoex {
 	@Test
 	public void mavendemoextest()
 	{
-		System.out.println("hello");
+		System.out.println("hello qspier");
 	}
 	
 @Test
